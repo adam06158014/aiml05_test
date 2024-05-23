@@ -1,3 +1,5 @@
 print('hello')
 print('hello')
 print('hello')
+print('投四號')
+print('是我當選')
